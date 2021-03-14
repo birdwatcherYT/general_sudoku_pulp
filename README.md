@@ -2,6 +2,7 @@
 - 数独はニコリの登録商標です
 - ナンプレとも呼ばれます
 - pulpを使って整数計画問題を解く練習のために作ったnotebookです
+- [Qiita](https://qiita.com/birdwatcher/items/d5c2a88c733ca71ae91e)で解説してます
 
 ## ソルバー
 - 与えられた問題の解を全て出力する
